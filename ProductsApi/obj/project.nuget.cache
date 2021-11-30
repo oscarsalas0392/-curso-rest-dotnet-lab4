@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O9ZrZKyebl2fITM+L94qQwMgvS5H9oMB68GaOxe8kHFhevznn4Bn8/kf7M/tpaiMM23VaZCrhM8Imeb0nQdnXg==",
+  "dgSpecHash": "z5cq/i2YkdeBfWbQPM3165uLj7hWivXpxwnOoNJbPCls5sPPkr3ql6yjJQbnvtHtL4Nw/Tq5WMlNDJkCoBEEBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oscar\\Source\\Repos\\curso\\material\\ProductsApi\\ProductsApi.csproj",
+  "projectFilePath": "C:\\Users\\oscar\\source\\repos\\curso-rest-dotnet-lab4\\ProductsApi\\ProductsApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oscar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\oscar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oscar\\Source\\Repos\\curso\\material\\OrdersApi\\OrdersApi.csproj": {}
+    "C:\\Users\\oscar\\source\\repos\\curso-rest-dotnet-lab4\\OrdersApi\\OrdersApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oscar\\Source\\Repos\\curso\\material\\OrdersApi\\OrdersApi.csproj": {
+    "C:\\Users\\oscar\\source\\repos\\curso-rest-dotnet-lab4\\OrdersApi\\OrdersApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oscar\\Source\\Repos\\curso\\material\\OrdersApi\\OrdersApi.csproj",
+        "projectUniqueName": "C:\\Users\\oscar\\source\\repos\\curso-rest-dotnet-lab4\\OrdersApi\\OrdersApi.csproj",
         "projectName": "OrdersApi",
-        "projectPath": "C:\\Users\\oscar\\Source\\Repos\\curso\\material\\OrdersApi\\OrdersApi.csproj",
+        "projectPath": "C:\\Users\\oscar\\source\\repos\\curso-rest-dotnet-lab4\\OrdersApi\\OrdersApi.csproj",
         "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oscar\\Source\\Repos\\curso\\material\\OrdersApi\\obj\\",
+        "outputPath": "C:\\Users\\oscar\\source\\repos\\curso-rest-dotnet-lab4\\OrdersApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MELZoo3JUg1Qu37hCPJ++Ejf6FB8wTYCNZ0I92iKuE/gsK00e9xBEWsb+faA+cSd+qwLRiDMwu6+cAv36kwDnw==",
+  "dgSpecHash": "/e2jI9WGf3Ll3IXyrV5GNodL+8kfgtAbnvYpjeyA0ApQ+jUnX2QImdSB0bsHpyMPxGBxeqCq2nRokDPuGxOmMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oscar\\Source\\Repos\\curso\\material\\OrdersApi\\OrdersApi.csproj",
+  "projectFilePath": "C:\\Users\\oscar\\source\\repos\\curso-rest-dotnet-lab4\\OrdersApi\\OrdersApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oscar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\oscar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
