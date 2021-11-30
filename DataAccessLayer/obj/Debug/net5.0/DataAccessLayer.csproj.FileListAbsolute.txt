@@ -1,0 +1,15 @@
+C:\Users\oscar\Source\Repos\curso-rest-dotnet-lab4\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\oscar\Source\Repos\curso-rest-dotnet-lab4\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\oscar\Source\Repos\curso-rest-dotnet-lab4\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\oscar\source\repos\curso-rest-dotnet-lab4\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\oscar\Source\Repos\curso-rest-dotnet-lab4\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\oscar\source\repos\curso-rest-dotnet-lab4\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\oscar\source\repos\curso-rest-dotnet-lab4\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\curso-rest-dotnet-lab4\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\source\repos\curso-rest-dotnet-lab4\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\oscar\source\repos\curso-rest-dotnet-lab4\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\oscar\source\repos\curso-rest-dotnet-lab4\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\curso-rest-dotnet-lab4\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\oscar\source\repos\curso-rest-dotnet-lab4\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\oscar\source\repos\curso-rest-dotnet-lab4\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\oscar\Source\Repos\curso-rest-dotnet-lab4\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
