@@ -73,7 +73,7 @@ namespace OrdersApi.Controllers
 
         private class ServicesConfiguration
         {
-            public string CustomersSvc { get; set; }
+
             public string ProductsSvc { get; set; }
         }
     }
