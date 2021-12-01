@@ -33,10 +33,7 @@ namespace OrdersApi.Controllers
         {
             var httpClient = new HttpClient();
 
-            // Order[]
-            // -> OrderLines[] -> Product, Quantity
-            // -> Customer
-            // -> Total
+
             var json = await httpClient.GetStringAsync(Services.ProductsSvc + "/products");
             JArray products = JArray.Parse(json);
 
@@ -54,10 +51,10 @@ namespace OrdersApi.Controllers
                     }
                 }
                 )
-                .Take(3) // -> Tomar solo 3 products para la orden de ejemplo
+                .Take(3) 
                 .ToArray();
 
-            // Con System.Linq, proyectamos y calculamos el gran total a partir de los objetos anonimos
+          
             object order1 = new { 
                 Lines = lines, 
                 Customer = new object(), 
